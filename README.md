@@ -24,9 +24,9 @@ We then created the [Anagram Project](https://github.com/joshuajhomann/Anagram)
   * Add `AnagramLogic` and a dependency to `AnagramUI`
   * Add `Algorithms` to `AnagramLogic`.  Note that package manager resolves the depdency for `Numerics` automatically since its specified in `Algorithms`
   * We created the common view logic in `AnagramUI` and imported this into both the watch target and the iOS target
-  * We created the `AnagramService` in the `AnagramLogic` package and imported this into the `AnagramLogic` package
+  * We created the `AnagramService` in the `AnagramLogic` package and imported this into the `AnagramLogic` package. 
 [Additional references](https://developer.apple.com/documentation/swift_packages)
-
+ ![image](https://github.com/joshuajhomann/Anagram/preview.gif "Preview")
 ## 2021-6-Jan SwiftUI Animation
 
 We covered the following:
