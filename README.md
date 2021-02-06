@@ -28,7 +28,8 @@ We then created the [Anagram Project](https://github.com/joshuajhomann/Anagram)
   
 [Additional references](https://developer.apple.com/documentation/swift_packages) 
 
- ![image](https://github.com/joshuajhomann/Anagram/preview.gif)
+![image](https://github.com/joshuajhomann/Anagram/preview.gif)
+ 
 ## 2021-6-Jan SwiftUI Animation
 
 We covered the following:
