@@ -8,7 +8,12 @@ RSVP [Swift Coders LA](https://www.meetup.com/SwiftCoders-L-A/)
 
 Please note that the notes for the saturday peer labs are located at [aflockofswifts.org](https://aflockofswifts.org)
 
-## 2021-3-Feb Modular Development with Swift Package Manager
+## 2021-Mar-3 Introduction to @resulBuilder
+We created a basic `@resultBuilder` and graddually added all of the `Component` functions.  We then saw that adding an `Expression` allows the builder to understand a different type that it can lift into a `Component`.  Finally we added a `FinalResult` to transform the output of the builder.  Once we compelted the simple exanple, we made a more complex example that allowed use to mirror a limited subset of SwiftUI's syntax in UIkit.
+
+![image](https://github.com/joshuajhomann/resultbuilders/raw/master/preview.png)
+
+## 2021-Feb-3 Modular Development with Swift Package Manager
 
 We created a [Prefix Trie](https://github.com/joshuajhomann/PrefixTrie) Swift Package from my old [Boggle project](https://github.com/joshuajhomann/Boggle-SwiftUI).
   * Create a new package in xcode
@@ -28,9 +33,9 @@ We then created the [Anagram Project](https://github.com/joshuajhomann/Anagram)
   
 [Additional references](https://developer.apple.com/documentation/swift_packages) 
 
-![image](https://github.com/joshuajhomann/Anagram/preview.gif)
+![image](https://github.com/joshuajhomann/Anagram/blob/master/preview.gif?raw=true)
  
-## 2021-6-Jan SwiftUI Animation
+## 2021-Jan-6 SwiftUI Animation
 
 We covered the following:
 * `UIKit` a playground showing an imperative animation in UIKit
