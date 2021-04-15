@@ -8,7 +8,7 @@ RSVP [Swift Coders LA](https://www.meetup.com/SwiftCoders-L-A/)
 
 Please note that the notes for the saturday peer labs are located at [aflockofswifts.org](https://aflockofswifts.org)
 
-## 2021-Mar-3 Introduction to @resulBuilder
+## 2021-Mar-3 Introduction to @resultBuilder
 We created a basic `@resultBuilder` and graddually added all of the `Component` functions.  We then saw that adding an `Expression` allows the builder to understand a different type that it can lift into a `Component`.  Finally we added a `FinalResult` to transform the output of the builder.  Once we compelted the simple exanple, we made a more complex example that allowed use to mirror a limited subset of SwiftUI's syntax in UIkit.
 
 https://github.com/joshuajhomann/resultbuilders
